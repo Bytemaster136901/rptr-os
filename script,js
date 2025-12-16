@@ -1,0 +1,7 @@
+function openApp(id) {
+ document.getElementById(id).style.display = "block";
+ }
+
+ function closeApp(id (
+  document.getElementById(id).style.display = "none";
+ )
